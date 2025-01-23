@@ -18,7 +18,7 @@ header.dark {
     --color-on-background-hover: Light Purple;
     --color-primary: #CBC3E3;
     --color-primary-disabled: #1f213c;
-    --color-on-primary: white;
+    --color-on-primary: Light Purple;
     --color-error: #de0000;
     --color-on-error: white;
 }
