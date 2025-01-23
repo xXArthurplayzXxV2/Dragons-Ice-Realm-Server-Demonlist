@@ -11,14 +11,14 @@
 
 main.dark,
 header.dark {
-    color-scheme: light purple;
+    color-scheme: purple;
     --color-background: #000080;
-    --color-on-background: Dark Blue;
+    --color-on-background: Blue;
     --color-background-hover: #27262c;
-    --color-on-background-hover: Light Purple;
+    --color-on-background-hover: Purple;
     --color-primary: #CBC3E3;
     --color-primary-disabled: #1f213c;
-    --color-on-primary: Light Purple;
+    --color-on-primary: Purple;
     --color-error: #de0000;
     --color-on-error: white;
 }
