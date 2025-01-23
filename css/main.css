@@ -1,12 +1,12 @@
 :root {
-    --color-background: purple;
+    --color-background: Dark Blue;
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
     --color-primary: #0066ff;
-    --color-on-primary: Dark Blue;
+    --color-on-primary: Blue;
     --color-error: #de0000;
-    --color-on-error: Purple;
+    --color-on-error: Black;
 }
 
 main.dark,
