@@ -1,11 +1,11 @@
 :root {
     --color-background: Dark Blue;
     --color-on-background: black;
-    --color-background-hover: #eee;
+    --color-background-hover: #CBC3E3;
     --color-on-background-hover: black;
     --color-primary: #301934;
     --color-on-primary: Blue;
-    --color-error: #de0000;
+    --color-error: #CBC3E3;
     --color-on-error: Black;
 }
 
@@ -20,7 +20,7 @@ header.dark {
     --color-primary-disabled: #1f213c;
     --color-on-primary: Purple;
     --color-error: #de0000;
-    --color-on-error: white;
+    --color-on-error: #CBC3E3;
 }
 
 html,
