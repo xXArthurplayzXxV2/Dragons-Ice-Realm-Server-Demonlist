@@ -1,1 +1,19 @@
+{
+    "id": 101478916,
+    "name": "Eon",
+    "author": "Renn241",
+    "creators": ["Renn241"],
+    "verifier": "BlankB",
+    "verification": "https://youtu.be/eYSTJC_q-8A",
+    "percentToQualify": "60",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "zterra",
+            "link": "https://youtu.be/VRexl_AMYzA?si=ob7D0DBuKn2YAp1o",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
 
