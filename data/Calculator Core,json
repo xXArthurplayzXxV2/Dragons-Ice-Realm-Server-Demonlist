@@ -1,18 +1,18 @@
 {
-    "id": 3979721,
-    "name": "Cataclysm",
-    "author": "GGBOY",
-    "creators": ["GGBOY"],
-    "verifier": "Riot",
-    "verification": "https://youtu.be/dYt5fp5VGVs",
-    "percentToQualify": "46",
+    "id": 58355141,
+    "name": "Calculator Core",
+    "author": "Walroose",
+    "creators": ["Walroose and More"],
+    "verifier": "Swiborg",
+    "verification": "https://youtu.be/YzjsxJtS2pE",
+    "percentToQualify": "44",
     "password": "Free Copy",
     "records": [
         {
-            "user": "TrixaleGD",
-            "link": "https://www.youtube.com/watch?v=MKBaYogSpn4&t=3s",
+            "user": "Spectrin",
+            "link": "https://youtu.be/Nd1VVleDqK8?si=zYn-KvSV6ys2oqVf",
             "percent": 100,
-            "hz": 144
+            "hz": 240
         }
     ]
 }
