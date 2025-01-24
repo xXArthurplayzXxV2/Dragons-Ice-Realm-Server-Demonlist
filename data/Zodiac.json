@@ -1,1 +1,19 @@
+{
+    "id": 3979721,
+    "name": "Zodiac",
+    "author": "Bianox",
+    "creators": ["Bianox and More"],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/N4QjElo58_o",
+    "percentToQualify": "56",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Spectrin",
+            "link": "https://youtu.be/CKFWvvF5UJs?si=U0p81_PEzifs4XIv",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
 
