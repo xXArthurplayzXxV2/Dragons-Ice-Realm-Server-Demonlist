@@ -1,1 +1,18 @@
-
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GGBOY",
+    "creators": ["GGBOY"],
+    "verifier": "Riot",
+    "verification": "https://youtu.be/dYt5fp5VGVs",
+    "percentToQualify": "46",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "TrixaleGD",
+            "link": "https://www.youtube.com/watch?v=MKBaYogSpn4&t=3s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
