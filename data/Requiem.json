@@ -1,1 +1,18 @@
-
+{
+    "id": 52303420,
+    "name": "Requiem",
+    "author": "Zylenox",
+    "creators": ["Zylenox"],
+    "verifier": "Zylenox",
+    "verification": "https://youtu.be/sRCQ1JjhBq4?si=ZjYGe_GRvJ6Wb42S",
+    "percentToQualify": "50",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "zterra",
+            "link": "https://youtu.be/xBSiqzMp2so?si=Yn0-IPzgpaGYNoVR",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
