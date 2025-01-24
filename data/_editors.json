@@ -1,13 +1,19 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner and head dev",
+        "name": "Dragons Ice Realm",
+        "link": "https://www.youtube.com/@DragonsIceRealm"
     },
     {
+
+        "role": "Head developers",
+        "name": "Minebox260",
+        "link": "https://www.youtube.com/@xxarthurplayzxxv2392, https://www.youtube.com/@Minebox260/videos"
+    },
+    {        
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "zterraGD","Spectrin",
+        "link": "https://www.youtube.com/@zterragd, https://www.youtube.com/@Spectrin"
     },
     {
         "role": "helper",
