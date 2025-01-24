@@ -1,1 +1,32 @@
 
+{
+    "id": 57436521,
+    "name": "Oblivion",
+    "author": "Dice88",
+    "creators": ["benji8080 and more"],
+    "verifier": "Dice88",
+    "verification": "https://youtu.be/ZcmDAm50BB0",
+    "percentToQualify": "51",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "RREV",
+            "link": "https://youtu.be/MnMke25Wuww?si=3uHkFfZPAbNcJP_-",
+            "percent": 100,
+            "hz": 165, "Not accurate",
+        },
+        {
+            "user": "zlevii",
+            "link": "https://www.youtube.com/watch?v=nQzc1OP6nyI",
+            "percent": 100,
+            "hz": 165, "Not accurate",
+        },
+        {
+            "user": "bal",
+            "link": "https://youtu.be/dTh0BZpmVec?si=S0zewBAjTppdcRA6",
+            "percent": 100,
+            "hz": 165, "Not accurate",            
+        }
+    ]
+}
+
