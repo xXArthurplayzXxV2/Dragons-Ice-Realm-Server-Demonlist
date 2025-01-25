@@ -13,6 +13,12 @@
             "link": "https://youtube.com/watch?v=i3iqITHtAmk",
             "percent": 100,
             "hz": 240
+        },
+		{
+            "user": "Whalewarrior1",
+            "link": "https://www.youtube.com/watch?v=0ZKTrjjjkr4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
