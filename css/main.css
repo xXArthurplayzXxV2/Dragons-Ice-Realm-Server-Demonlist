@@ -3,8 +3,8 @@
     --color-on-background: #7851A9;
     --color-background-hover: #CBC3E3;
     --color-on-background-hover: black;
-    --color-primary: #301934;
-    --color-on-primary: Blue;
+    --color-primary: Blue;
+    --color-on-primary: #301934;
     --color-error: #CBC3E3;
     --color-on-error: Black;
 }
