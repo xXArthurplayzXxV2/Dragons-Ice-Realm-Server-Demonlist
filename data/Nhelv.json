@@ -1,1 +1,19 @@
+{
+    "id": 68353244,
+    "name": "Nhelv",
+    "author": "SrGuillester",
+    "creators": ["SrGuillester and more"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/k117h9HUt6s",
+    "percentToQualify": "47",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Phantom GameRz",
+            "link": "https://youtu.be/m2VnV2QZH6k?si=iP6lm0u0YwdIqzH-",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
 
