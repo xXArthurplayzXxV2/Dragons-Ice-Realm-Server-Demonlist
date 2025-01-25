@@ -1,0 +1,18 @@
+{
+	"id": 58252259,
+	"name": "Ethereal Artifice",
+	"author": "Zeroya",
+	"creators": [],
+	"verifier": "Mycrafted",
+	"verification": "https://www.youtube.com/watch?v=RKbKYcS9aCU",
+	"percentToQualify": 100,
+	"song": 193466,
+	"records": [
+        {
+            "user": "Phantom GameRz",
+            "link": "https://youtu.be/oxzSgyAjVGM?si=KZeQydimDrjyxw4b",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
