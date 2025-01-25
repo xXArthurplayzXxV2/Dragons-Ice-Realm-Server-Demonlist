@@ -1,1 +1,19 @@
+{
+    "id": 57600307,
+    "name": "Cognition",
+    "author": "Endlevel",
+    "creators": ["Endlevel and Benji8080"],
+    "verifier": "Nswish",
+    "verification": "https://youtu.be/enl0GOyskPs",
+    "percentToQualify": "43",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Phantom GameRz",
+            "link": "https://youtu.be/cO5Xtd1jGBg?si=ch89osdV76k0_aLN",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
 
