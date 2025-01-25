@@ -1,0 +1,19 @@
+{
+    "id": 55184818,
+    "name": "glide",
+    "author": "crohn44",
+    "creators": ["crohn44"],
+    "verifier": "crohn44",
+    "verification": "https://youtu.be/wKdgidXSXUQ",
+    "percentToQualify": 45,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "whalewarrior1",
+            "link": "https://youtu.be/wKdgidXSXUQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
+
