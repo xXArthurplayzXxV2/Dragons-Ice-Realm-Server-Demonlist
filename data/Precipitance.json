@@ -1,0 +1,24 @@
+{
+    "id": 60197839,
+    "name": "Precipitance",
+    "author": "Extravagon",
+    "creators": ["Extravagon"],
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=yGU62aRMPWM&",
+    "percentToQualify": 45,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Whalewarrior1",
+            "link": "https://www.youtube.com/watch?v=yGU62aRMPWM&",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "starfGD",
+            "link": "https://www.youtube.com/watch?v=F-62hHeuKWY",
+            "percent": 100,
+            "hz": 75
+        }
+    ]
+}
