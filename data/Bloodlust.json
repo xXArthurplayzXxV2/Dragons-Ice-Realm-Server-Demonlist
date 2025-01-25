@@ -1,1 +1,19 @@
+{
+    "id": 42584142,
+    "name": "Bloodlust",
+    "author": "Knobbelboy",
+    "creators": ["Knobbelboy and More"],
+    "verifier": "Knobbelboy and More",
+    "verification": "https://youtu.be/5SzKetF2btw",
+    "percentToQualify": 54,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Phantom GameRz",
+            "link": "https://youtu.be/wUwvcSrFq7w?si=WlrjGWDNcPD2VO75",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
 
