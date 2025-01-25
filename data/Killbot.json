@@ -1,1 +1,19 @@
+{
+    "id": 84813026,
+    "name": "Killbot",
+    "author": "Boldstep",
+    "creators": ["Lithifusion"],
+    "verifier": "Boldstep",
+    "verification": "https://youtu.be/UQvPvOGYdpw",
+    "percentToQualify": "51",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "NewDark",
+            "link": "https://youtu.be/G-XBMiy6AMA?si=G0ZQXpcfk4osNTNi",
+            "percent": 100,
+            "hz": 144/120
+        }
+    ]
+}
 
