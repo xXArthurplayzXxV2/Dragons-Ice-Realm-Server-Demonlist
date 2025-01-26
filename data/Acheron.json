@@ -3,17 +3,12 @@
     "name": "Acheron",
     "author": "Ryamu",
     "creators": ["Ryamu and more"],
-    "verifier": "Zoink",
-    "verification": "https://www.youtube.com/watch?v=sBKR6aUorzA",
+    "verifier": "Axinity",
+    "verification": "https://www.youtube.com/watch?v=LgGRfBKtP7s",
     "percentToQualify": 45,
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Axinity",
-            "link": "https://www.youtube.com/watch?v=LgGRfBKtP7s",
-            "percent": 100,
-            "hz": 240
-        }
+        
     ]
 }
 
