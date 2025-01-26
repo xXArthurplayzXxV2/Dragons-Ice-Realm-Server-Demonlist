@@ -1,1 +1,18 @@
-
+{
+    "id": 101478916,
+    "name": "Plasma Pulse III",
+    "author": "xSmokes",
+    "creators": ["Giron and xSmokes"],
+    "verifier": "zterra",
+    "verification": "https://youtu.be/F5p7FGJEZwI?si=wPPpVZpea3_uuyPT",
+    "percentToQualify": "67",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "salmple",
+            "link": "https://youtu.be/VRexl_AMYzA?si=ob7D0DBuKn2YAp1o",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
