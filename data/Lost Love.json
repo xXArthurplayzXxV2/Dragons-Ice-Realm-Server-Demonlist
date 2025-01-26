@@ -3,16 +3,11 @@
     "name": "Lost Love",
     "author": "TheBlackHell",
     "creators": ["TheBlackHell"],
-    "verifier": "Aespha",
+    "verifier": "Whalewarrior1",
     "verification": "https://www.youtube.com/watch?v=Q0LrVqP65sc",
     "percentToQualify": 45,
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Whalewarrior1",
-            "link": "https://www.youtube.com/watch?v=Q0LrVqP65sc",
-            "percent": 100,
-            "hz": 240
-        }
+        
     ]
 }

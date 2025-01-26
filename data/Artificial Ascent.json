@@ -3,18 +3,11 @@
     "name": "Artificial Ascent",
     "author": "Viprin",
     "creators": ["Viprin and More"],
-    "verifier": "Combi",
-    "verification":"https://www.youtube.com/watch?v=e5AzfUeCggM",
+    "verifier": "RREV",
+    "verification":"https://youtu.be/e5AzfUeCggM?si=OfdDK8R3Tr3TwAZB",
     "percentToQualify": "55",
     "password": "Free Copy",
     "records":  [
-        {
-            "user": "RREV",
-            "link": "https://youtu.be/e5AzfUeCggM?si=OfdDK8R3Tr3TwAZB",
-            "percent": 100,
-            "hz": 240
-            
-        },
         {
             "user": "Buba148",
             "link": "https://youtu.be/YvydtZJcjeI?si=_oG3yH4HBz_suipw",

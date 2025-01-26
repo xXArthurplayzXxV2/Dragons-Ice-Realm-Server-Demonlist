@@ -3,17 +3,12 @@
     "name": "Yatagarasu",
     "author": "Trusta",
     "creators": ["Viprin and More"],
-    "verifier": "Dragoon",
-    "verification": "https://youtu.be/GrGFFPhtAFc",
+    "verifier": "Phantom GameRz",
+    "verification": "https://youtu.be/fMRI3FjPZ6g?si=sdj1NuMZWwJ4nSvc",
     "percentToQualify": "56",
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Phantom GameRz",
-            "link": "https://youtu.be/fMRI3FjPZ6g?si=sdj1NuMZWwJ4nSvc",
-            "percent": 100,
-            "hz": 120
-        }
+        
     ]
 }
 

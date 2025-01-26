@@ -3,16 +3,11 @@
     "name": "Limbo",
     "author": "Mindcap",
     "creators": ["Mindcap and More"],
-    "verifier": "BGram",
-    "verification": "https://youtu.be/kXYMbaMVOZg",
+    "verifier": "Spectrin",
+    "verification": "https://www.youtube.com/watch?v=IO8JzNYwvVk",
     "percentToQualify": "52",
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Spectrin",
-            "link": "https://www.youtube.com/watch?v=IO8JzNYwvVk",
-            "percent": 100,
-            "hz": 240
-        }
+        
     ]
 }

@@ -3,8 +3,8 @@
 	"name": "Ethereal Artifice",
 	"author": "Zeroya",
 	"creators": [],
-	"verifier": "Mycrafted",
-	"verification": "https://www.youtube.com/watch?v=RKbKYcS9aCU",
+	"verifier": "Whalewarrior1",
+	"verification": "https://www.youtube.com/watch?v=N0orls_A0aU&",
 	"percentToQualify": 100,
 	"song": 193466,
 	"records": [
@@ -13,12 +13,7 @@
             "link": "https://youtu.be/oxzSgyAjVGM?si=KZeQydimDrjyxw4b",
             "percent": 100,
             "hz": 120
-        },
-		{
-            "user": "Whalewarrior1",
-            "link": "https://www.youtube.com/watch?v=N0orls_A0aU&",
-            "percent": 100,
-            "hz": 240
         }
+		
     ]
 }

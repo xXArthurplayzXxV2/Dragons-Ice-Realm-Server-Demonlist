@@ -3,16 +3,11 @@
 	"name": "Black Blizzard",
 	"author": "KrmaL",
 	"creators": [],
-	"verifier": "KrmaL",
-	"verification": "https://www.youtube.com/watch?v=lsT5TjQ1Ubc",
+	"verifier": "Phantom GameRz",
+	"verification": "https://youtu.be/pojmvRoBfeM?si=HHnubMNpLuR9qncD",
 	"percentToQualify": 100,
 	"password": "000006",
 	"records": [
-        {
-            "user": "Phantom GameRz",
-            "link": "https://youtu.be/pojmvRoBfeM?si=HHnubMNpLuR9qncD",
-            "percent": 100,
-            "hz": 288
-        }
+       
     ]
 }

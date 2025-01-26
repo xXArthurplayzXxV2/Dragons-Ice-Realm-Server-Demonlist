@@ -3,8 +3,8 @@
     "name": "Blade of Justice",
     "author": "Manix648",
     "creators": ["Manix648", "More"],
-    "verifier": "Ricolp",
-    "verification": "https://www.youtube.com/watch?v=6018CbEjA-4",
+    "verifier": "Whalewarrior1",
+    "verification": "https://www.youtube.com/watch?v=UBU2rHMujZA",
     "percentToQualify": 56,
     "password": "Free Copy",
     "records": [
@@ -13,12 +13,7 @@
             "link": "https://www.youtube.com/watch?v=Q-ZBhfyPO_0&t=170s",
             "percent": 100,
             "hz": 165
-        },
-        {
-            "user": "Whalewarrior1",
-            "link": "https://www.youtube.com/watch?v=UBU2rHMujZA",
-            "percent": 100,
-            "hz": 144
         }
+        
     ]
 }

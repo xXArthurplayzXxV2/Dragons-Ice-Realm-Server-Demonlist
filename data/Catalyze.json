@@ -3,16 +3,11 @@
     "name": "Catalyze",
     "author": "Zephirox",
     "creators": ["Zephirox"],
-    "verifier": "MrSpaghetti",
-    "verification": "https://youtu.be/Xd5OOUoYex0?si=GV9GNPhaJjKaPy6m",
+    "verifier": "RealDes",
+    "verification": "https://youtu.be/50ikKrYTBv4?si=_ZaCdLsuv2am6HLX",
     "percentToQualify": "36",
     "password": "Free Copy",
     "records": [
-        {
-            "user": "RealDes",
-            "link": "https://youtu.be/50ikKrYTBv4?si=_ZaCdLsuv2am6HLX",
-            "percent": 100,
-            "hz": 240
-        }
+       
     ]
 }

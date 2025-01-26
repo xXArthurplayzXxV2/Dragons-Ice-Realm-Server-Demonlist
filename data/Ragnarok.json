@@ -3,17 +3,12 @@
     "name": "Ragnarok",
     "author": "Knobbelboy",
     "creators": ["Knobbelboy and More"],
-    "verifier": "Technical",
-    "verification": "https://youtu.be/aGtXqn9HL2o",
+    "verifier": "Phantom GameRz",
+    "verification": "https://youtu.be/QgfcAAKm8mg?si=3e0RAopRkYXC4TfL",
     "percentToQualify": "56",
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Phantom GameRz",
-            "link": "https://youtu.be/QgfcAAKm8mg?si=3e0RAopRkYXC4TfL",
-            "percent": 100,
-            "hz": 120
-        }
+        
     ]
 }
 

@@ -4,16 +4,11 @@
     "name": "The Ultimate Demon",
     "author": "Vit12",
     "creators": ["Vit12"],
-    "verifier": "LordVaderCraft",
-    "verification": "https://youtu.be/C-LFHgp-oU0?si=0MbBC3uQKnqw9zLZ",
+    "verifier": "Jusint",
+    "verification": "https://www.youtube.com/watch?v=xAEscCujw-U",
     "percentToQualify": "42",
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Jusint",
-            "link": "https://www.youtube.com/watch?v=xAEscCujw-U'",
-            "percent": 100,
-            "hz": 165
-        }
+        
     ]
 }

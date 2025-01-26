@@ -6,15 +6,10 @@
 		"Zylenox",
 		"TrusTa"
 	],
-	"verifier": "Darkswe",
-	"verification": "https://youtu.be/yI8cfDG9gm8",
+	"verifier": "RealDes",
+	"verification": "https://youtube.com/watch?v=3Fj1R_PM310",
 	"percentToQualify": 100,
 	"records": [
-        {
-            "user": "RealDes",
-            "link": "https://youtube.com/watch?v=3Fj1R_PM310",
-            "percent": 100,
-            "hz": 144
-        }
+       
     ]
 }

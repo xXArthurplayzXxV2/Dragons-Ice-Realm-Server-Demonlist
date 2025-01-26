@@ -3,16 +3,11 @@
     "name": "Calculator Core",
     "author": "Walroose",
     "creators": ["Walroose and More"],
-    "verifier": "Swiborg",
-    "verification": "https://youtu.be/YzjsxJtS2pE",
+    "verifier": "Spectrin",
+    "verification": "https://youtu.be/Nd1VVleDqK8?si=zYn-KvSV6ys2oqVf",
     "percentToQualify": "48",
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Spectrin",
-            "link": "https://youtu.be/Nd1VVleDqK8?si=zYn-KvSV6ys2oqVf",
-            "percent": 100,
-            "hz": 240
-        }
+       
     ]
 }

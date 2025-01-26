@@ -3,16 +3,11 @@
     "name": "Kingslayer",
     "author": "Motheye",
     "creators": ["Motheye"],
-    "verifier": "Baeru",
-    "verification": "https://youtu.be/exSJrLme6so?si=o8m8svnOcfGX185F",
+    "verifier": "Jusint",
+    "verification": "https://www.youtube.com/watch?v=xV-Y8kQ9_3g",
     "percentToQualify": "60",
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Jusint",
-            "link": "https://www.youtube.com/watch?v=xV-Y8kQ9_3g",
-            "percent": 100,
-            "hz": 165
-        }
+
     ]
 }

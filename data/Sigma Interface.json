@@ -3,16 +3,11 @@
     "name": "Sigma Interface",
     "author": "Platnuu",
     "creators": ["Platnuu and Teslax"],
-    "verifier": "Technical",
+    "verifier": "Whalewarrior1",
     "verification": "https://www.youtube.com/watch?v=zjgE8RFnQSc",
     "percentToQualify": 45,
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Whalewarrior1",
-            "link": "https://www.youtube.com/watch?v=zjgE8RFnQSc",
-            "percent": 100,
-            "hz": 240
-        }
+        
     ]
 }

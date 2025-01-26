@@ -3,15 +3,10 @@
 	"name": "TURN THE LIGHTS OFF",
 	"author": "nikoberry",
 	"creators": [],
-	"verifier": "Myntifresh",
-	"verification": "https://www.youtube.com/watch?v=ZrX5RPw82GQ",
+	"verifier": "RealDes",
+	"verification": "https://youtube.com/watch?v=hAvBdFTBTdw",
 	"percentToQualify": 100,
 	"records": [
-        {
-            "user": "RealDes",
-            "link": "https://youtube.com/watch?v=hAvBdFTBTdw",
-            "percent": 100,
-            "hz": 240
-        }
+        
     ]
 }

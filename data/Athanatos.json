@@ -3,16 +3,10 @@
     "name": "Athanatos",
     "author": "Exenity",
     "creators": ["Exenity and more"],
-    "verifier": "Knobbelboy",
+    "verifier": "Whalewarrior1",
     "verification": "https://www.youtube.com/watch?v=REUQc65eqeU",
     "percentToQualify": 45,
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Axinity",
-            "link": "https://www.youtube.com/watch?v=REUQc65eqeU",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }

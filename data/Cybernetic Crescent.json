@@ -3,16 +3,11 @@
     "name": "Cybernetic Crescent",
     "author": "Viprin",
     "creators": ["Viprin and More"],
-    "verifier": "Technical",
-    "verification": "https://youtu.be/0yKtq1PJeDQ",
+    "verifier": "Phantom GameRz",
+    "verification": "https://youtu.be/VYaMxRES1Xs?si=NrsH2LO5RHJIqwZ9",
     "percentToQualify": "45",
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Phantom GameRz",
-            "link": "https://youtu.be/VYaMxRES1Xs?si=NrsH2LO5RHJIqwZ9",
-            "percent": 100,
-            "hz": 120
-        }
+        
     ]
 }

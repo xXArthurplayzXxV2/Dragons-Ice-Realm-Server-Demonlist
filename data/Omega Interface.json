@@ -6,15 +6,10 @@
 		"Platnuu",
 		"Zipixbox"
 	],
-	"verifier": "RG",
-	"verification": "https://www.youtube.com/watch?v=sVngEgj0who",
+	"verifier": "Whalewarrior1",
+	"verification": "https://www.youtube.com/watch?v=PwDflZmw4LY",
 	"percentToQualify": 100,
 	"records": [
-        {
-            "user": "Whalewarrior1",
-            "link": "https://www.youtube.com/watch?v=PwDflZmw4LY",
-            "percent": 100,
-            "hz": 240
-        }
+        
     ]
 }

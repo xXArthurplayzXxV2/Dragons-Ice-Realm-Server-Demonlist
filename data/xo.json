@@ -3,17 +3,11 @@
 	"name": "xo",
 	"author": "KrmaL",
 	"creators": [],
-	"verifier": "KrmaL",
-	"verification": "https://www.youtube.com/watch?v=vcAdWah55Z4",
+	"verifier": "RealDes",
+	"verification": "https://youtube.com/watch?v=i3iqITHtAmk",
 	"percentToQualify": 100,
 	"password": "000007",
 	"records": [
-        {
-            "user": "RealDes",
-            "link": "https://youtube.com/watch?v=i3iqITHtAmk",
-            "percent": 100,
-            "hz": 240
-        },
 		{
             "user": "Whalewarrior1",
             "link": "https://www.youtube.com/watch?v=0ZKTrjjjkr4",

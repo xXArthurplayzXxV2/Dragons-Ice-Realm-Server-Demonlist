@@ -5,16 +5,11 @@
 	"creators": [
 		"Gizbro"
 	],
-	"verifier": "RevoltZy",
-	"verification": "https://www.youtube.com/watch?v=J-qEOHy-IIA",
+	"verifier": "Phantom GameRz",
+	"verification": "https://youtu.be/U7fNGsJeHpQ?si=UDPMgR422UeJ7oEU",
 	"percentToQualify": 100,
 	"song": 874960,
 	"records": [
-        {
-            "user": "Phantom GameRz",
-            "link": "https://youtu.be/U7fNGsJeHpQ?si=UDPMgR422UeJ7oEU",
-            "percent": 100,
-            "hz": 120
-        }
+        
     ]
 }

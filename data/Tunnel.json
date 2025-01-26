@@ -3,17 +3,12 @@
     "name": "Tunnel",
     "author": "Akunakunn",
     "creators": ["Akunakunn and Many More"],
-    "verifier": "Fleym",
-    "verification": "https://youtu.be/xusX-xC0zzk",
+    "verifier": "NewDark",
+    "verification": "https://youtu.be/7V5i6P5okxA?si=8xSd0G9NUa0oHGBf",
     "percentToQualify": "42",
     "password": "Free Copy",
     "records": [
-        {
-            "user": "NewDark",
-            "link": "https://youtu.be/7V5i6P5okxA?si=8xSd0G9NUa0oHGBf",
-            "percent": 100,
-            "hz": 144
-        }
+        
     ]
 }
 
