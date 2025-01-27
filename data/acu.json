@@ -3,11 +3,17 @@
     "name": "acu",
     "author": "neigefeu",
     "creators": ["neigefeu"],
-    "verifier": "Droon",
-    "verification": "https://youtu.be/wK_0Mkrr0xs?si=0GQ8SD9s98IG32HN",
+    "verifier": "Phantom GameRz",
+    "verification": "https://youtu.be/loI-FsuXXtE?si=vLi9IqjRvPTBwY_-",
     "percentToQualify": 45,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Droon",
+            "link": "https://youtu.be/wK_0Mkrr0xs?si=0GQ8SD9s98IG32HN",
+            "percent": 100,
+            "hz": 75
+        },
         {
             "user": "starfGD",
             "link": "https://www.youtube.com/watch?v=X1ck_09rWbE",

@@ -8,6 +8,11 @@
     "percentToQualify": 45,
     "password": "Free Copy",
     "records": [
-       
+        {
+            "user": "Phantom GameRz",
+            "link": "https://youtu.be/sFQBeTh4jaI?si=fN83XXwU_QgDMvLD",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
