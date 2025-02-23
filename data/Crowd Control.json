@@ -8,6 +8,11 @@
     "percentToQualify": 45,
     "password": "Free Copy",
     "records": [
-       
+        {
+            "user": "Droon",
+            "link": "https://youtu.be/L1I2ETdvtsM?si=gAYYasrMlFUyPb-T",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
