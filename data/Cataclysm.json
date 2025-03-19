@@ -24,9 +24,13 @@
             "user": "KingGDistaken",
             "link": "https://youtu.be/VjE280Zucok",
             "percent": 100,
-            "hz": 240
+            "hz": 120
+        },
+        {
+            "user": "DarthSkril",
+            "link": "https://www.youtube.com/watch?v=2l28YAnYQRo&list=PLpI492ZQBMRyjsA8Sv0Kxw2zY-guhSij8&index=17",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
-
-
