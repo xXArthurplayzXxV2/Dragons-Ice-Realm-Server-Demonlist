@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "DarthSkril",
+            "link": "https://www.youtube.com/watch?v=SON5FZAKP9E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Phantom GameRz",
             "link": "https://youtu.be/Yv_-aO9DNHU?si=amUJAoVKYnFuOK7t",
             "percent": 100,
@@ -17,12 +23,6 @@
         {
             "user": "KingGDistaken",
             "link": "https://youtu.be/pU4f0R3m_H8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "DarthSkril",
-            "link": "https://www.youtube.com/watch?v=SON5FZAKP9E",
             "percent": 100,
             "hz": 240
         }
