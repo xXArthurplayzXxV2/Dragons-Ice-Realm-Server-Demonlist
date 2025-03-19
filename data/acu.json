@@ -3,11 +3,17 @@
     "name": "acu",
     "author": "neigefeu",
     "creators": ["neigefeu"],
-    "verifier": "Phantom GameRz",
-    "verification": "https://youtu.be/loI-FsuXXtE?si=vLi9IqjRvPTBwY_-",
+    "verifier": "DarthSkril",
+    "verification": "https://www.youtube.com/watch?v=-aJVWR_leM0&list=PLpI492ZQBMRyjsA8Sv0Kxw2zY-guhSij8&index=28",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Phantom GameRz",
+            "link": "https://youtu.be/loI-FsuXXtE?si=vLi9IqjRvPTBwY_-",
+            "percent": 100,
+            "hz": 288
+        },
         {
             "user": "Droon",
             "link": "https://youtu.be/wK_0Mkrr0xs?si=0GQ8SD9s98IG32HN",
@@ -37,12 +43,6 @@
             "link": "https://www.youtube.com/watch?v=6vLwuoqyVhQ",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "DarthSkril",
-            "link": "https://www.youtube.com/watch?v=-aJVWR_leM0&list=PLpI492ZQBMRyjsA8Sv0Kxw2zY-guhSij8&index=27",
-            "percent": 100,
-            "hz": 144
         }
     ]
 }
