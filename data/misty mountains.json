@@ -7,8 +7,12 @@
         "verification":"https://youtu.be/aTVwUa7NnSs?si=OHMJEXdiuQfj-S5u",
         "percentToQualify": "100",
         "password": "Free Copy",
-        "records":  
-        [
-            
-        ]
-    }
+    "records":  [
+        {
+            "user": "NewDark",
+            "link": "https://www.youtube.com/watch?v=9jF_VG6KJv4&list=PLHhXHVnhESaupkN6-Cf25bzp1YUXKK6No&index=18",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
