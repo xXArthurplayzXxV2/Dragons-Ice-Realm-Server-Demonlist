@@ -3,11 +3,17 @@
     "name": "Cataclysm",
     "author": "GGBOY",
     "creators": ["GGBOY"],
-    "verifier": "Whalewarrior1",
-    "verification": "https://www.youtube.com/watch?v=c_q64iGCgDI&",
+    "verifier": "DarthSkril",
+    "verification": "https://www.youtube.com/watch?v=2l28YAnYQRo&list=PLpI492ZQBMRyjsA8Sv0Kxw2zY-guhSij8&index=18",
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Whalewarrior1",
+            "link": "https://www.youtube.com/watch?v=c_q64iGCgDI&",
+            "percent": 100,
+            "hz": 144
+        },
         {
             "user": "TrixaleGD",
             "link": "https://www.youtube.com/watch?v=MKBaYogSpn4&t=3s",
@@ -25,12 +31,6 @@
             "link": "https://youtu.be/VjE280Zucok",
             "percent": 100,
             "hz": 120
-        },
-        {
-            "user": "DarthSkril",
-            "link": "https://www.youtube.com/watch?v=2l28YAnYQRo&list=PLpI492ZQBMRyjsA8Sv0Kxw2zY-guhSij8&index=17",
-            "percent": 100,
-            "hz": 180
         }
     ]
 }
