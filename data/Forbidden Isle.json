@@ -7,7 +7,12 @@
     "verification": "https://youtu.be/aufe4zy28Es",
     "percentToQualify": 50,
     "password": "Free Copy",
-    "records": [
-        
+    "records":  [
+        {
+            "user": "DarthSkril",
+            "link": "TBC",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
