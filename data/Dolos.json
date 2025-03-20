@@ -7,7 +7,12 @@
     "verification": "https://youtu.be/ZXYirUjNq3A?si=8VmhEEZ1rkXVu0JU",
     "percentToQualify": "53",
     "password": "Free Copy",
-    "records": [
-        
+    "records":  [
+        {
+            "user": "KingGD",
+            "link": "https://www.youtube.com/watch?v=jVz0uRhFYQg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
