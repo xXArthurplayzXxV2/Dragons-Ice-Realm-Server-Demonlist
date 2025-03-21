@@ -7,8 +7,12 @@
     "verification": "https://youtu.be/-lZFW0vjfZk?si=etH5NP5rmGbvyvfW",
     "percentToQualify": 47,
     "password": "Free Copy",
-    "records": [
-        
+    "records":  [
+        {
+            "user": "Artaix",
+            "link": "https://www.youtube.com/watch?v=Vm_xxf97YWw&list=PL6or0f8hnr0Cg16jXy--YFzQNLfsCzRDE&index=32",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
-
