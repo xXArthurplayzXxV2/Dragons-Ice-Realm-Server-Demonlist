@@ -36,7 +36,13 @@
             "user": "NewDark",
             "link": "https://www.youtube.com/watch?v=R0tC1xGSJLs&list=PLHhXHVnhESaupkN6-Cf25bzp1YUXKK6No&index=12",
             "percent": 100,
-            "hz": 180
+            "hz": 100
+        },
+        {
+            "user": "Artaix",
+            "link": "https://www.youtube.com/watch?v=cJDyC7zaUOw&list=PL6or0f8hnr0Cg16jXy--YFzQNLfsCzRDE&index=11",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
