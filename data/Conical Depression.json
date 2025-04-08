@@ -7,7 +7,12 @@
     "verification": "https://youtu.be/Lm-eumy8L9Y?si=p_KlHrD2gcgxwQL0",
     "percentToQualify": 45,
     "password": "Free Copy",
-    "records": [
-        
+    "records":  [
+        {
+            "user": "CookedPugs",
+            "link": "https://youtu.be/iX8BPKm5rNw?si=vvQC5T-k0kg-Rx67",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
