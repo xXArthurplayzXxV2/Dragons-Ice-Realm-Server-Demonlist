@@ -3,16 +3,9 @@
     "name": "Cognition",
     "author": "Endlevel",
     "creators": ["Endlevel and Benji8080"],
-    "verifier": "Phantom GameRz",
-    "verification": "https://youtu.be/cO5Xtd1jGBg?si=ch89osdV76k0_aLN",
+    "verifier": "CookedPugs",
+    "verification": "https://youtu.be/ch4ioq9IZGA?si=QqtaU8urgcpby8JW",
     "percentToQualify": "43",
     "password": "Free Copy",
     "records":  [
         {
-            "user": "CookedPugs",
-            "link": "https://youtu.be/ch4ioq9IZGA?si=QqtaU8urgcpby8JW",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
-}
