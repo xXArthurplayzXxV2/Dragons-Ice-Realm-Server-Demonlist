@@ -5,9 +5,14 @@
     "creators": ["Lithifusion"],
     "verifier": "zterra",
     "verification": "https://youtu.be/xBSiqzMp2so?si=Yn0-IPzgpaGYNoVR",
-    "percentToQualify": "67",
+    "percentToQualify": "50",
     "password": "Free Copy",
-    "records": [
-        
+    "records":  [
+        {
+            "user": "DarthSkril",
+            "link": "https://www.youtube.com/watch?v=UIL4wdYywNk",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
