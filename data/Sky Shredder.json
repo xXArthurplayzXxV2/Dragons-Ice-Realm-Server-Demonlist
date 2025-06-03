@@ -7,7 +7,12 @@
     "verification": "https://youtu.be/OuDaK2Ny5bM?si=D_92GGNucLGEnocZ",
     "percentToQualify": 52,
     "password": "Free Copy",
-    "records": [
-        
+    "records":  [
+        {
+            "user": "Spectrin",
+            "link": "https://www.youtube.com/watch?v=Lp1os39XGNw",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
