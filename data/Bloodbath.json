@@ -16,7 +16,7 @@
         },
         {
             "user": "Phantom GameRz",
-            "link": "https://youtu.be/Yv_-aO9DNHU?si=amUJAoVKYnFuOK7t",
+            "link": "https://youtu.be/Yv_-aO9DNHU",
             "percent": 100,
             "hz": 360
         },
@@ -37,6 +37,13 @@
             "link": "https://www.youtube.com/watch?v=wqkwPwTyTQI&list=PL6or0f8hnr0Cg16jXy--YFzQNLfsCzRDE&index=20",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user:" "zterra",
+            "link": "https://youtu.be/--1PyINDVos",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
+
