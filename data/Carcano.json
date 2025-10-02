@@ -7,8 +7,14 @@
     "verification": "https://www.youtube.com/watch?v=VL2a3yX1ZBY&list=PLpI492ZQBMRyjsA8Sv0Kxw2zY-guhSij8&index=31",
     "percentToQualify": 55,
     "password": "Free Copy",
-    "records": [
-        
+    "records":  
+    [
+        {
+            "user": "ArthurGDandYT",
+            "link": "https://youtube.com/shorts/p__Rb9UPHhU?si=7HqzbXkrEBdHE1-6",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
 
