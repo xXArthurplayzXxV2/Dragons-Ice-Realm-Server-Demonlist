@@ -15,20 +15,8 @@
             "hz": 60
         },
         {
-            "user": "starfGD",
-            "link": "https://www.youtube.com/watch?v=X1ck_09rWbE",
-            "percent": 100,
-            "hz": 75
-        },
-        {
             "user": "KingGDistaken",
             "link": "https://youtu.be/HF2CUy9E8wI",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Whalewarrior1",
-            "link": "https://www.youtube.com/watch?v=-zUgHiEqRG4",
             "percent": 100,
             "hz": 240
         },
@@ -39,12 +27,6 @@
             "hz": 240
         },
         {
-            "user": "NewDark",
-            "link": "https://www.youtube.com/watch?v=UfaS6vncJGM&list=PLHhXHVnhESaupkN6-Cf25bzp1YUXKK6No&index=2",
-            "percent": 100,
-            "hz": 100
-        },
-        {
             "user": "Spectrin",
             "link": "https://www.youtube.com/watch?v=0gebw7hrTA4",
             "percent": 100,
@@ -52,3 +34,4 @@
         }
     ]
 }
+
